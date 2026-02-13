@@ -105,9 +105,9 @@ GROUP_REPOS = [
         "http(s)://<TBA>/<APIURL>",
     ],
     [
-        "group p",
-        "<name>",
-        ["https://github.com/<organization|user>/<repository_name>"],
+        "group a",
+        "EasTops",
+        ["https://github.com/AntohaY/itu-minitwit"],
         "http(s)://<TBA>/<FrontEndURL>",
         "http(s)://<TBA>/<APIURL>",
     ],
