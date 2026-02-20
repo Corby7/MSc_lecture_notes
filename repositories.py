@@ -79,9 +79,9 @@ GROUP_REPOS = [
     [
         "group o",
         "Rollback & Relax",
-        ["https://github.com/<organization|user>/<repository_name>"],
-        "http(s)://<TBA>/<FrontEndURL>",
-        "http(s)://<TBA>/<APIURL>",
+        ["https://github.com/alqeren1/devops"],
+        "http://ec2-13-51-198-31.eu-north-1.compute.amazonaws.com:3000",
+        "http://ec2-13-51-198-31.eu-north-1.compute.amazonaws.com:3000",
     ],
     [
         "group a",
