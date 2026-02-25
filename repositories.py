@@ -84,7 +84,7 @@ GROUP_REPOS = [
         "http://ec2-13-51-198-31.eu-north-1.compute.amazonaws.com:5001",
     ],
     [
-        "group a",
+        "group p",
         "EastTops",
         ["https://github.com/AntohaY/itu-minitwit"],
         "http(s)://<TBA>/<FrontEndURL>",
